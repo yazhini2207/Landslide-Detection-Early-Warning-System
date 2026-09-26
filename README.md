@@ -24,7 +24,7 @@
 | 10\. | Connecting cables |
 
 **CONSTRUCTION :          
-![block](block.jpg)
+![block](Block.jpg)
 ![schematic](schematic.jpg)
 
                            The system is constructed by connecting different sensors to a microcontroller such as Arduino UNO or ESP32.
